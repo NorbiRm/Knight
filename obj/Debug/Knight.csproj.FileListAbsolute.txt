@@ -1,0 +1,6 @@
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\bin\Debug\Knight.exe.config
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\bin\Debug\Knight.exe
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\bin\Debug\Knight.pdb
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\obj\Debug\Knight.csproj.CoreCompileInputs.cache
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\obj\Debug\Knight.exe
+D:\Documents\ITESM\9no\sistemas inteligentes\Knight\Knight\obj\Debug\Knight.pdb
